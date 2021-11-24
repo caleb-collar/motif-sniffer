@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<Sources xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography">
+  <Source>
+    <SourceType>JournalArticle</SourceType>
+    <Tag>camacho2009blast</Tag>
+    <Title>BLAST+: architecture and applications.</Title>
+    <Year>2009</Year>
+    <URL>https://academic.microsoft.com/paper/2142678478</URL>
+    <Author>
+      <Author>
+        <NameList>
+          <Person>
+            <Last>Camacho</Last>
+            <First>Christiam</First>
+          </Person>
+          <Person>
+            <Last>Coulouris</Last>
+            <First>George</First>
+          </Person>
+          <Person>
+            <Last>Avagyan</Last>
+            <First>Vahram</First>
+          </Person>
+          <Person>
+            <Last>Ma</Last>
+            <First>Ning</First>
+          </Person>
+          <Person>
+            <Last>Papadopoulos</Last>
+            <First>Jason S.</First>
+          </Person>
+          <Person>
+            <Last>Bealer</Last>
+            <First>Kevin</First>
+          </Person>
+          <Person>
+            <Last>Madden</Last>
+            <First>Thomas L.</First>
+          </Person>
+        </NameList>
+      </Author>
+    </Author>
+    <Volume>10</Volume>
+    <Issue>1</Issue>
+    <Pages>421-421</Pages>
+    <JournalName>BMC Bioinformatics</JournalName>
+  </Source>
+  <Source>
+    <SourceType>JournalArticle</SourceType>
+    <Tag>cock2009biopython</Tag>
+    <Title>Biopython: freely available Python tools for computational molecular biology and bioinformatics.</Title>
+    <Year>2009</Year>
+    <URL>https://academic.microsoft.com/paper/2114850508</URL>
+    <Author>
+      <Author>
+        <NameList>
+          <Person>
+            <Last>Cock</Last>
+            <First>Peter J. A.</First>
+          </Person>
+          <Person>
+            <Last>Antao</Last>
+            <First>Tiago</First>
+          </Person>
+          <Person>
+            <Last>Chang</Last>
+            <First>Jeffrey T.</First>
+          </Person>
+          <Person>
+            <Last>Chapman</Last>
+            <First>Brad A.</First>
+          </Person>
+          <Person>
+            <Last>Cox</Last>
+            <First>Cymon J.</First>
+          </Person>
+          <Person>
+            <Last>Dalke</Last>
+            <First>Andrew</First>
+          </Person>
+          <Person>
+            <Last>Friedberg</Last>
+            <First>Iddo</First>
+          </Person>
+          <Person>
+            <Last>Hamelryck</Last>
+            <First>Thomas</First>
+          </Person>
+          <Person>
+            <Last>Kauff</Last>
+            <First>Frank</First>
+          </Person>
+          <Person>
+            <Last>Wilczyński</Last>
+            <First>Bartosz</First>
+          </Person>
+          <Person>
+            <Last>Hoon</Last>
+            <First>Michiel J. L. de</First>
+          </Person>
+        </NameList>
+      </Author>
+    </Author>
+    <Volume>25</Volume>
+    <Issue>11</Issue>
+    <Pages>1422-1423</Pages>
+    <JournalName>Bioinformatics</JournalName>
+  </Source>
+  <Source>
+    <SourceType>JournalArticle</SourceType>
+    <Tag>kala2014hnh</Tag>
+    <Title>HNH proteins are a widespread component of phage DNA packaging machines.</Title>
+    <Year>2014</Year>
+    <URL>https://academic.microsoft.com/paper/2075420514</URL>
+    <Author>
+      <Author>
+        <NameList>
+          <Person>
+            <Last>Kala</Last>
+            <First>Smriti</First>
+          </Person>
+          <Person>
+            <Last>Cumby</Last>
+            <First>Nichole</First>
+          </Person>
+          <Person>
+            <Last>Sadowski</Last>
+            <First>Paul D.</First>
+          </Person>
+          <Person>
+            <Last>Hyder</Last>
+            <First>Batool Zafar</First>
+          </Person>
+          <Person>
+            <Last>Kanelis</Last>
+            <First>Voula</First>
+          </Person>
+          <Person>
+            <Last>Davidson</Last>
+            <First>Alan R.</First>
+          </Person>
+          <Person>
+            <Last>Maxwell</Last>
+            <First>Karen L.</First>
+          </Person>
+        </NameList>
+      </Author>
+    </Author>
+    <Volume>111</Volume>
+    <Issue>16</Issue>
+    <Pages>6022-6027</Pages>
+    <JournalName>Proceedings of the National Academy of Sciences of the United States of America</JournalName>
+  </Source>
+</Sources>
